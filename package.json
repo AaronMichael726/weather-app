@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "postman-request": "^2.88.1-postman.28",
+    "request": "^2.88.2"
+  },
+  "name": "weather-app",
+  "description": "weather app built with udemy course in node",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaronMichael726/weather-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AaronMichael726/weather-app/issues"
+  },
+  "homepage": "https://github.com/AaronMichael726/weather-app#readme"
+}
