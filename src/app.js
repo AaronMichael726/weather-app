@@ -101,6 +101,6 @@ app.get('*', (req, res) => { // wild card to select every page that is not defin
 
 
 
-app.listen(3000, () => {
+app.listen(port, () => {
     console.log(`SErver is running on PORT: ${port}`)
 })
